@@ -34,15 +34,16 @@ Usa
 ×\xf000Ȃ\x0001\x0000
 Non avrà alcun effetto!
 E' avvolto dalla nebbia！\xfffe
-\xf000Ă\x0001\x0000 \xfffeis getting Pumped!
+\xf000Ă\x0001\x0000は\xfffeis getting Pumped!
 L'Attacco di \xf000Ă\x0001\x0000\xfffesale!
 L'Attacco Speciale di \xf000Ă\x0001\x0000\xfffesale!
 La Velocità di \xf000Ă\x0001\x0000\xfffesale!
 La Difesa Speciale di \xf000Ă\x0001\x0000\xfffesale!
-La DIfesa di \xf000Ă\x0001\x0000\xfffesalesale!
+La Difesa di \xf000Ă\x0001\x0000\xfffesalesale!
 E' stato usato\xfffe\xf000ĉ\x0001\x0000!
 Il secondo Pokémon\xfffelo rende impossibile da mirare!
 Non è rimasto nessun box libero nel PC!
+\xf000ć\x0001\x0001l'　Effetto 's impedisce l'utilizzo di un altro elemento! \xfffe\xf000Ă\x0001\x0000
 L'effetto di \xf000ć\x0001\x0001\xffferende impossibile usare un altro oggetto! \xf000Ă\x0001\x0000
 Non va bene, è impossibile mirare\xfffead un Pokémon che non si vede!
 Non va bene, è impossibile mirare\xfffead un Pokémon che non si vede!
